@@ -5,6 +5,6 @@
         const str = window.location.href;
 
         const words = str.split('#');
-        $("#c").html("App/"+words[1]+".app");
+        $("#c").load("App/"+words[1]+".app");
     });
 </script>
