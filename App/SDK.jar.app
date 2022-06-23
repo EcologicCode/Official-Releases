@@ -1,6 +1,6 @@
 <H1>SDK.jar</H1>
 <p>
-    SDK.jar est un progamme d'installation vraimen sympa, et il ne demande que:
+    SDK.jar est un progamme d'installation vraiment sympa, et il ne demande que:
     <li>Java</li>
     <li>200 Mo de RAM (Après, ça dépend de la taille du disque)</li>
     <li>Une connexion réseau</li>
