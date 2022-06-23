@@ -4,6 +4,8 @@ Ici, vous trouverez tous les téléchagements du site !<br>
 Et des téléchargements en + !<br>
 <h2>E</h2>
 <a href="app.html#EditorWeb">EditorWeb</a>
+<h2>O</h2>
+<a href="app.html#OsInstall">OsInstall</a>
 <h2>S</h2>
 <a href="app.html#SDK.jar">SDK.jar</a>
 <h2>W</h2>
