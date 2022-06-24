@@ -7,4 +7,4 @@
     <li>500 Ko d'espace disque pour SDK.jar et assez d'espace pour l'application que vous Installez</a>
 </p>
 <a href="Files/SDK.jar">Télécharger SDK.jar</a>
-<a href="SDK.jar.src.zip" download="SourceSDK.jar.zip">Source SDK.jar[Zip]</a>
+<a href="SDK.jar.src.zip" download="SourceSDK.jar.zip" class="App">Source SDK.jar[Zip]</a>

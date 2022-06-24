@@ -4,4 +4,4 @@
     Installable depuis <a href="Redirect.html#SDK.jar">SDK.jar</a><br>
 </p>
 <h1>Téléchargements</h1>
-<a href="https://ecologiccode.github.io/root/OpenCreators/OpenCreators.exe">Windows</a>
+<a href="https://ecologiccode.github.io/root/OpenCreators/OpenCreators.exe" class="App">Windows</a>
